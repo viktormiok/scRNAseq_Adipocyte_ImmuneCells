@@ -13,7 +13,7 @@ __`scRNAseq_Adipocyte_ImmuneCells`__ is distributed under the MIT license. Pleas
 
 Publication related to __`scRNAseq_Adipocyte_ImmuneCells`__ include:
 
-- Yan, X., Miok, V., Karlina, R., Böttcher, A., Lutter, D., Lickert, H., Garcia Caceres, C., Ussar, S. (2023) "[ScRNAseq–Based Analysis of the Stromal Immune Cell Composition in Murine Preweaning and Adult White Adipose Tissues](https://diabetesjournals.org/diabetes/article/72/Supplement_1/1666-P/150177)", *Diabetes* 72 (Supplement_1), 1666-1666.
+- Yan, X., **Miok, V.**, Karlina, R., Böttcher, A., Lutter, D., Lickert, H., Garcia Caceres, C., Ussar, S. (2023) "[ScRNAseq–Based Analysis of the Stromal Immune Cell Composition in Murine Preweaning and Adult White Adipose Tissues](https://diabetesjournals.org/diabetes/article/72/Supplement_1/1666-P/150177)", *Diabetes* 72 (Supplement_1), 1666-1666.
 
 
 Please cite the relevant publication if you use __`scRNAseq_Adipocyte_ImmuneCells`__.
